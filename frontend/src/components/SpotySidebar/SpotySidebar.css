@@ -1,0 +1,11 @@
+.SpotySidebar.ui.menu .item:hover{
+    border-left: 10px solid green !important;
+}
+
+.SpotySidebar.ui.menu{
+    z-index: 1 !important;
+}
+.SpotySidebar.ui.menu .item{
+    font-size: 30px;
+}
+
